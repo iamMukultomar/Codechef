@@ -1,4 +1,4 @@
-/* package codechef; // don't place package name! */
+/* package codechef; // don't place packsage name! */
 
 import java.util.*;
 import java.lang.*;
