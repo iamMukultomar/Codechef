@@ -7,7 +7,7 @@ class Codechef
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
+		// your code goes herea
       Scanner scan=new Scanner(System.in);
       int t=scan.nextInt();
       while(t--!=0){
